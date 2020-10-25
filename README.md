@@ -47,7 +47,7 @@ VERSIÓN
 
 SINOPSIS DEL JUEGO
 
-Dos exploradores entrarán en una cueva para derrotar a un misterioso enemigo, aunque las cosas no son como aparentan.
+Dos exploradores entran en una nave abandonada para buscar y descubrir tesoros valiosos. Sin embargo, a medida que avanzan en su búsqueda, una serie de peligros irán surgiendo relacionadas con un monstruo que ha hecho de la nave su guarida y que hará todo lo posible para evitar su saqueo.
 
 
 
@@ -178,7 +178,7 @@ Pturm
 
 DESCRIPCIÓN
 
-Un ser de otro planeta capaz de modificar su cuerpo para meterse por zonas muy estrechas.
+Un ser de otro planeta capaz de modificar su cuerpo para meterse por zonas muy estrechas. Una masa gelatinosa viscosa de colores oscuros, al ser un alien viscoso en su cuerpo hay pequeños trozos de naves y escombros.
 
 
 
