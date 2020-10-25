@@ -45,16 +45,16 @@ Marauder es un juego multijugador cooperativo. Desarrollado en la guarida del mo
 DINÁMICA DEL JUEGO
 
 Cámara
-
+En tercera persona tipo plataformas.
 
 Periféricos
-
+Teclado
 
 Controles
-
+A (Izquierda), D (Derecha), barra espaciadora (salto), E (interactuar).
 
 Guardar/cargar
-
+Provisional si da tiempo
 
 PERSONAJES
 
