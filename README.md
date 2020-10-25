@@ -92,7 +92,6 @@ Agilidad para saltar más alto.
 
 ENEMIGOS
 
-
 Nombre
 Monstruo
 
