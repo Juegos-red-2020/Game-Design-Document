@@ -107,10 +107,3 @@ Conforme vas avanzando en la guarida más presente se hace.
 
 Habilidades
 Conocimiento estratégico del entorno.
-
-ARTE CONCEPTUAL
-
-Guía de estilo
-
-
-
