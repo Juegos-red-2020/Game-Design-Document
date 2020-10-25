@@ -59,41 +59,35 @@ Provisional si da tiempo
 PERSONAJES
 
 Nombre
-
+Explorador 1
 
 Descripción
-
+Son saqueadores de tesoros interestelares, provistos de una capucha y un vestuario que a su vez hace de armadura sencilla.
 
 Concepto
-
+Uno de los protagonistas del juego y personaje controlado por el jugador. 
 
 Momento
-
+Aparición al principio del juego al ser uno de los principales.
 
 Habilidades
-
-
-
-
+Fuerza para empujar objetos pesados.
 
 
 Nombre
-
+Explorador 2
 
 Descripción
-
+Son saqueadores de tesoros interestelares, provistos de una capucha y un vestuario que a su vez hace de armadura sencilla.
 
 Concepto
-
+Uno de los protagonistas del juego y personaje controlado por el jugador.
 
 Momento
-
+Aparición al principio del juego al ser uno de los principales.
 
 Habilidades
-
-
-
-
+Agilidad para saltar más alto.
 
 
 ENEMIGOS
