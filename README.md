@@ -57,6 +57,7 @@ Guardar/cargar
 
 
 PERSONAJES
+
 Nombre
 
 
@@ -96,6 +97,8 @@ Habilidades
 
 
 ENEMIGOS
+
+
 Nombre
 
 
@@ -112,6 +115,9 @@ Habilidades
 
 
 ARTE CONCEPTUAL
+
+
+
 Guía de estilo
 
 
