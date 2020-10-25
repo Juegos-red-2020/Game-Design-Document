@@ -94,23 +94,21 @@ ENEMIGOS
 
 
 Nombre
-
+Monstruo
 
 Descripción
-
+Un ser de otro planeta capaz de modificar su cuerpo para meterse por zonas muy estrechas.
 
 Concepto
-
+El enemigo
 
 Momento
-
+Conforme vas avanzando en la guarida más presente se hace.
 
 Habilidades
-
+Conocimiento estratégico del entorno.
 
 ARTE CONCEPTUAL
-
-
 
 Guía de estilo
 
