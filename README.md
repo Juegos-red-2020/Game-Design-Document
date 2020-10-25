@@ -98,7 +98,7 @@ Teclado
 
 CONTROLES
 
-A (Izquierda), D (Derecha), barra espaciadora y W (salto), S (interactuar).
+A (Izquierda), D (Derecha), barra espaciadora / W (salto), S (interactuar).
 
 
 
