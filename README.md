@@ -111,8 +111,7 @@ PERSONAJES
 
 NOMBRE
 
-Explorador 1
-
+Deva
 
 
 DESCRIPCIÓN
@@ -141,8 +140,7 @@ Fuerza para empujar objetos pesados.
 
 NOMBRE
 
-Explorador 2
-
+Reni
 
 
 DESCRIPCIÓN
@@ -174,7 +172,7 @@ ENEMIGOS
 
 NOMBRE
 
-Monstruo
+Pturm
 
 
 
